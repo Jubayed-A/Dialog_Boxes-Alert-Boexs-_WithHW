@@ -14,7 +14,8 @@
         android:gravity="center"
         android:text="Alert Boxes"
         android:textSize="35sp"
-        android:layout_margin="20dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginBottom="20dp"
         android:padding="10dp"
         />
 
